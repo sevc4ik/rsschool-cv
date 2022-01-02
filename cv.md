@@ -3,11 +3,8 @@
 ## Contatcs:
 
 * **Location:** Hrodna, Belarus
-
 * **E-mail:** sevka.st@gmail.com
-
 * **Telegram:** @sevc4ik
-
 * **Phone:** +375 29 888 78 89
 
 ## About Me:
@@ -17,15 +14,10 @@ Hello, my name is Savely. Now I work as a UX designer, but I am also interested 
 ## Skills:
 
 * HTML
-
 * CSS
-
 * JS
-
 * knockout.js
-
 * UX & UI design
-
 * GIT
 
 ## Code Example:
@@ -81,9 +73,6 @@ self.findDroppable = function (event) {
     return elem.closest('.droppable');
 }
 
-self.onDragEnd = function (dragObject, dropElem) { };
-self.onDragCancel = function (dragObject) { };
-
 self.getCoords = function (elem) {
     let box = elem.getBoundingClientRect();
 
@@ -97,19 +86,15 @@ self.getCoords = function (elem) {
 ## Experience:
 
 2018 - April 2021
-
 **Velox Imaging** HTML-coder
 
 May 2021 - present
-
 **Velox Imaging** UX designer
 
 ## Education:
 
 2015-2019
-
 **YANKA KUPALA STATE UNIVERSITY OF GRODNO,**
-
 Bachelor, Mathematics and Computer Science
 
 ## Languages:
